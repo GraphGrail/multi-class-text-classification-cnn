@@ -1,3 +1,5 @@
+GraphGrail Ai – is the world’s first Artificial Intelligence platform for Blockchain built on top of Natural Language Understanding technology with the DApps marketplace 
+
 ### Project: Classify Kaggle Consumer Finance Complaints
 
 ### Highlights:
@@ -31,3 +33,6 @@
 
 ### Reference:
  - [Implement a cnn for text classification in tensorflow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+ 
+This module is not belong to Graph Grail!!!
+It will be used to integrate with the micro services provided by Graph Grail.
